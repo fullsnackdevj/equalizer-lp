@@ -1,0 +1,72 @@
+:root {
+  /* colors */
+  --clr-cyan: hsl(177 68% 64%);
+  --clr-orange: hsl(12 94% 65);
+  --clr-yelllow: hsl(33 100% 70%);
+
+  --clr-white: hsl(23 33% 98%);
+  --clr-black: hsl(244 23% 12%);
+
+  /* typography */
+
+  --ff-ibm-plex: "IBM Plex Sans";
+
+  /* font-weights */
+  --fw-regular: 400;
+  --fw-bold: 700;
+
+  /* font sizes */
+  --fs-xs: 16px;
+  --fs-sm: 18px;
+  --fs-md: 20px;
+  --fs-lg: 40px;
+  --fs-xl: 64px;
+  --fs-xxl: 88px;
+
+  /* line heights */
+  --lh-xs: 1;
+  --lh-sm: 1.1;
+  --lh-md: 1.5;
+  --lh-lg: 1.8;
+
+  /* spacing */
+
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-40: 40px;
+  --space-48: 48px;
+  --space-56: 56px;
+  --space-64: 64px;
+  --space-68: 68px;
+  --space-80: 80px;
+  --space-86: 86px;
+  --space-120: 128px;
+  --space-128: 128px;
+  --space-160: 160px;
+  --space-164: 164px;
+  --space-200: 200px;
+}
+
+/* .wrapper {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding-inline: var(--space-40);
+} */
+
+/* @media (min-width: 375px) {
+  /* .wrapper {
+    padding-inline: var(--space-20);
+  } */
+/* 
+.wrapper {
+  padding-inline: var(--space-20);
+} */
+
+/* .wrapper-fluid {
+  padding-inline: 0;
+} */
